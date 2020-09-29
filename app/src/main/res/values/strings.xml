@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Randomizer app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">0</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="random_button_text">Next</string>
+    <string name="previous">Previous</string>
+    <string name="toast_button_text">Hello</string>
+    <string name="count">Count</string>
+    <string name="random">random</string>
+    <string name="Hello">Count as many numbers as you want</string>
+    <string name="random_heading" >Random numbers between 0 and %d</string>
+    <string name="r">R</string>
+</resources>
